@@ -1,14 +1,14 @@
 let UniversalArray = [2, 3, 4, 5, 7, 8, 9, 10]
 
 
-// Write a function to find the maximum element in an array.
+
 // const myArray = [1,2,3,4,5,10,6,8,9]
 // function maxNum(myArray) {
 //     return Math.max(...myArray)
 // }
 // console.log(maxNum(myArray))
 
-// Write a function to reverse an array without using the built-in reverse method.
+
 
 
 // let reversed= []
