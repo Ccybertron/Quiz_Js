@@ -250,7 +250,7 @@ console.log(myNewArray)
 
 
 
-// let greet = "hello world"
+// let greet = "hello welcome here"
 // function CapitalStr(str){
 //     return str
 //     .split('')
